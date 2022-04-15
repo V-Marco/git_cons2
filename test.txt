@@ -2,4 +2,4 @@ first row
 second row
 this is the third row
 this is a row from github
-this are a 5th row
+this is a 5th row
